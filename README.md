@@ -167,7 +167,7 @@ This reflects the known limit of the dataset (which only has complete records th
 
 ```text
 ├── sql/        # BigQuery SQL scripts (validation, revenue analysis, RFM segmentation)
-├── powerbi/    # Power BI .pbix file
+├── powerbi/    # Power BI .pbix file (Power BI source file available separately due to repository upload limitations).
 ├── images/     # Dashboard screenshots
 └── README.md
 ```
