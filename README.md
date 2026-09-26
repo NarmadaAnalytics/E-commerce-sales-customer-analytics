@@ -142,7 +142,7 @@ The Executive Overview dashboard includes:
 - **Customer Segments (RFM)** — bar chart of One-time Buyer / Big Spender / Loyal / Champion segments
 - **Slicers:** State, Customer Segment, Date Range — for interactive filtering
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Key Findings
 
